@@ -1,0 +1,42 @@
+{
+	"area": [{
+	  "name"  : "Amstelhaege",
+		"length": 160,
+		"width" : 180,
+ 		"pond"  : 4,
+		"water" : 20
+	}],
+	"composition": [{
+	  "total": 20,
+		"ewg": 0.60,
+		"bgl": 0.25,
+		"msn": 0.15		
+	}],
+	"buildings": [{
+		"ewg": {
+		  "name"  : "Eens gezins woming",
+			"value" : 285,
+			"width" : 8.0,
+			"length": 8.0,
+			"extra" : 2.0,
+			"bonus" : 3.0
+		},
+		"bgl": {
+		  "name"  : "Bungalow",
+			"value" : 399,
+			"width" : 10,
+			"length": 7.5,
+			"extra" : 3.0,
+			"bonus" : 4.0
+		},
+		"msn": {
+		  "name"  : "Maison",
+			"value" : 610,
+			"width" : 11.0,
+			"length": 10.5,
+			"extra" : 6.0,
+			"bonus" : 6.0
+		}		
+	}]
+}
+
